@@ -1,0 +1,19 @@
+{
+  "name": "steray",
+  "version": "1.0.0",
+  "description": "experimenting with subclassing arrays",
+  "main": "src/steray.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Michael Zanggl",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "ramda": "^0.26.1"
+  },
+  "peerDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
